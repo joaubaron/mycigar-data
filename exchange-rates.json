@@ -1,10 +1,10 @@
 {
   "rates": {
-    "USD": 0.50,    // 👈 Mudei de 0.19 para 0.50 (163% maior!)
-    "EUR": 0.45,    // 👈 Mudei de 0.16 para 0.45 (181% maior!)
-    "ARS": 500,     // 👈 Mudei de 276 para 500 (81% maior!)
+    "USD": 0.19,
+    "EUR": 0.16,
+    "ARS": 276,
     "BRL": 1
   },
-  "updated_at": "2026-02-07T10:00:00.000Z",  // 👈 Data ATUAL
-  "version": 1770472800  // 👈 Aumente MUITO (timestamp atual)
+  "updated_at": "2026-02-06T15:16:03.938Z",
+  "version": 1770390963
 }
